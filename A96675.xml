@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true copie of a letter written by Captain Wingate, now prisoner in Ludlow, taken by the malignant partie, in the late battaile fought at Worcester, and sent to a member of the Hoble house of Commons. Setting forth the inhumane, barbarous and savage cruelties towards him, and how he was compelled to ride through the army naked: with his resolution to die in the Parliaments cause. Whereunto is added the Kings Majesties speech at Shrewsbury, on Michaelmas Eve last, to the gentry and commons of the county of Sallop, there assembled.</title>
+            <author>Wingate, Captain.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96675</idno>
+            <idno type="STC">Wing W2996</idno>
+            <idno type="STC">Thomason E121_17</idno>
+            <idno type="STC">ESTC R20525</idno>
+            <idno type="EEBO-CITATION">99864667</idno>
+            <idno type="PROQUEST">99864667</idno>
+            <idno type="VID">116899</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96675)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116899)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E121[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true copie of a letter written by Captain Wingate, now prisoner in Ludlow, taken by the malignant partie, in the late battaile fought at Worcester, and sent to a member of the Hoble house of Commons. Setting forth the inhumane, barbarous and savage cruelties towards him, and how he was compelled to ride through the army naked: with his resolution to die in the Parliaments cause. Whereunto is added the Kings Majesties speech at Shrewsbury, on Michaelmas Eve last, to the gentry and commons of the county of Sallop, there assembled.</title>
+                  <author>Wingate, Captain.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[6] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Ley, at Pauls-chaine,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>October, the 7th. MDCXLII. [1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116899:1"/>
+            <pb facs="tcp:116899:1" rendition="simple:additions"/>
+            <p>THE TRVE COPIE <hi>OF A</hi> LETTER WRITTEN By <hi>Captaine Wingate,</hi> now Priſoner in Ludlow, taken by the Malignant Partie, in the late Battaile fought at <hi>Worceſter;</hi> and ſent to a <hi>Member</hi> of the Ho<hi rend="sup">ble</hi> houſe of <hi>Commons.</hi>
+            </p>
+            <p>Setting forth The inhumane, barbarous and ſavage Cruelties towards him, and how he was compelled to ride through the Army naked: with his Reſolution to die in the PARLIAMENTS <hi>Cauſe.</hi>
+            </p>
+            <p>
+               <hi>Whereunto is added</hi> The Kings Majeſties Speech at <hi>Shrewsbury,</hi> on <hi>Michaelmas</hi> Eve laſt, to the <hi>Gentry</hi> and <hi>Commons</hi> of the County of SALLOP, there aſſembled.</p>
+            <p>LONDON, Printed for WILLIAM LEY, at Pauls-Chaine. <hi>October,</hi> the 7<hi rend="sup">th.</hi> MDCXLII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:116899:2"/>
+            <pb n="3" facs="tcp:116899:2"/>
+            <head>The true Copy of a Letter, written by Captain WINGATE, now priſoner in Lud<g ref="char:EOLhyphen"/>low; taken by the Malignant party, in the late Battell fought at <hi>Worceſter,</hi> and ſent to a Worthy Member of the Honourable Houſe of Commons: ſetting forth the Inhumane, Barbarous, and Savage Cruelties towards him and ſome other Priſoners, alſo taken by the ſaid Malignants, and his reſolution to dye <hi>in the Parliaments cauſe.</hi>
+            </head>
+            <opener>
+               <salute>SIR:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">M</seg>Y unfortunate eſtate and ſorrowfull condition, into which I am now plun<g ref="char:EOLhyphen"/>ged, maketh me almoſt uncapable of writing the true ſenſe thereof. But ever having found you a conſtant and faith<g ref="char:EOLhyphen"/>full friend to me in time of proſperi<g ref="char:EOLhyphen"/>ty, and opportunity now favouring me, by Gods mercy I am encouraged, in what meaſure I am able, to ac<g ref="char:EOLhyphen"/>quaint you with my ſufferings, hoping you will ſo farre condole with me my misfortunes, as to preſent them on my behalfe to the Honourable Houſe of Commons.</p>
+            <p>When I came from <hi>Oxford</hi> with that worthy Com<g ref="char:EOLhyphen"/>mander Collonell <hi>Sands</hi> (whoſe unfortunate death I much lament) under Collonell <hi>Brown,</hi> our Comman<g ref="char:EOLhyphen"/>der in Chiele, to <hi>Worceſter,</hi> we had a long and doubtfull skermiſh, which I verily perſwade my ſelfe is already made known both to the High Court of Parliament,
+<pb n="2" facs="tcp:116899:3"/>and moſt part of the Kingdome. Therefore I forbeare to mention any thing further touching the ſame, but only to informe you of mine own particular ſufferings ſince I have been in their barbarous cuſtody.</p>
+            <p>When I was by them brought into <hi>Worceſter,</hi> I was brought before Prince <hi>Robert,</hi> and Lord <hi>Maurice</hi> his Brother, and ſome other of their Commanders, and was with much ſcornfull and opprobrious reproch exami<g ref="char:EOLhyphen"/>ned the cauſe of my reſiſtance againſt the Kings Maje<g ref="char:EOLhyphen"/>ſtie, my Liege Lord and Soveraigne; To which I an<g ref="char:EOLhyphen"/>ſwered; I never reſiſted or attempted to doe any thing againſt His Majeſties Perſon or lawfull commands joyned with conſent of his great Councel, both Houſes of Parliament, whoſe Edicts and Ordinances I concei<g ref="char:EOLhyphen"/>ved (ſo long as they tended to the preſervation of His Majeſties Perſon, Honour and Dignity, and peace of His Majeſties Kingdomes, and eſtabliſhment of Reli<g ref="char:EOLhyphen"/>gion) ought to be obſerved and obeyed. Then was I de<g ref="char:EOLhyphen"/>manded if the Parliament command one thing, and His Majeſty expreſly commands the contrary, whether I ought not to obey the King before the Parliament. To which I anſwered, that I conceived the High Court of Parliament being the repreſentative body of the whole Kingdome, and ſo the greateſt Councell, and elected of the choiſeſt and learnedſt perſons in the Kingdome, and ſo the wiſeſt; of the moſt aged and experienced mem<g ref="char:EOLhyphen"/>bers, and ſo the greateſt could beſt judge of the affaires, and of ſuch Lawes and ordinances which might moſt tend to the ſafety and tranquility of this State and Common-wealth. Therefore I conceived I ought in conſcience to obey their commands; In which opinion I reſolve to live and die; and now I am fallen into your
+<pb n="3" facs="tcp:116899:3"/>hands, I muſt ſubmit my ſelfe to your mercy or cruel<g ref="char:EOLhyphen"/>ty, either of which ſhall be welcome to me for the ma<g ref="char:EOLhyphen"/>nifeſtation of my loyalty to both King and Parliament conjunctly, but not divided.</p>
+            <p>The Prince was much enraged at my ſo peremptory anſwers, calling me Parliament-dog, Round-head, and the like, and if I had the gift of patience to ſuffer, I ſhould in ſhort time be made a rare Martyr. To which I anſwered, Gods will be done: Then was I comman<g ref="char:EOLhyphen"/>ded out of his preſence, and kept in ſafe cuſtody, til fur<g ref="char:EOLhyphen"/>ther order from him, giving command for preſent pre<g ref="char:EOLhyphen"/>paration for all his ſouldiers to leave the Town, and ad<g ref="char:EOLhyphen"/>vance towards <hi>Ludlow,</hi> where Prince <hi>Charles</hi> keepes his Court, and to leave behind them Colonell <hi>Brown,</hi> Co<g ref="char:EOLhyphen"/>lonell <hi>Sands,</hi> and Captain <hi>Berry,</hi> being ſore wounded that they could not goe along with them without dan<g ref="char:EOLhyphen"/>ger of death.</p>
+            <p>About three of the clock in the morning they went from the Town, having bound my hands-behind mee, commanding me to be ſet on horſe-back, and bound to the horſe, and to ride before them, only one Trooper before, and one on each ſide mee for my guard, who rode with their Piſtols in their hands ready charged, turning them often towards mee, ſwearing dam them, and periſh them (if I would not turne on the Kings ſide) they would ſhoot me to the heart, to which I an<g ref="char:EOLhyphen"/>ſwered nothing, but that time ſhould make known my further intention.</p>
+            <p>Being come about five or ſix miles from <hi>Worceſter,</hi> be<g ref="char:EOLhyphen"/>ginning to be day-light, command was gsven by Prince <hi>Robert,</hi> that unleſſe I would preſently renounce the cauſe that I endevoured to defend on the behalfe of the
+<pb n="4" facs="tcp:116899:4"/>Parliament, and declare that I conceived their Procee<g ref="char:EOLhyphen"/>dings to be againſt the Lawes of the Land, and diſho<g ref="char:EOLhyphen"/>nourable to the King, I ſhould be preſently ſtripped out of all my garments, and ride bound naked before them to <hi>Ludlow;</hi> which I refuſing to doe, was moſt barbarouſly and inhumanely according to the Princes command effected. The ſcornfull reproches of thoſe wicked Miſcreants which I in that way ſuſtained did not trouble nor d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt my mind ſo much, as the harme and cold I caught by the weather being ſharp, injured my Body.</p>
+            <p>Then comming to <hi>Ludlow,</hi> after they had exerciſed themſelves with reviling and ſcorning of me, cauſing me ſo to ride through the Towne, command was given I ſhould be taken off my horſe and my clothes put on and brought before Prince <hi>Robert,</hi> who in a reviling manner asked mee if I had learned to beare and ſuffer, and if I would not yet recant and turne to them, they would proceed to judgement againſt me, with the cru<g ref="char:EOLhyphen"/>elleſt torments they could deviſe to put mee to death, giving mee ten dayes libertie to conſider with my ſelfe and returne my full Reſolution at the time prefixed, commanding me to be againe put into Priſon, and to be allowed neceſſary meat and drinke for preſervation of my health, that thereby if I would joyne with them I might be the better able to doe them ſervice.</p>
+            <p>Some other Priſoners which here they have alſo put into a cloſe Priſon, uſing them in the extreameſt cruel<g ref="char:EOLhyphen"/>tie that may be deviſed, allowing them only bread and warer for their ſuſtentation, and ſo little, that if they long continue there, they will be ſtarved to death.</p>
+            <p>Thus (Sir) having rudely given you to underſtand
+<pb n="5" facs="tcp:116899:4"/>my preſent eſtate at this time, having opportunlty, and obtained ſo much favour of the Keeper of the Priſon, being ſomewhat well affected to the proceedings of the Parliament, but conſtrained to execute that place, who provided me of a truſty friend that I might confide in to deliver you this Letter, which if I ſhall be ſo happy before my death (which I expect at the day appointed as to heare that you have received my Letter, I ſhall be glad; for no tortures, torments or ſavage cruelties with Gods aſſiſtance ſhall alter or change my Loyalty to that grand and grave Senate the High Court of <hi>Par<g ref="char:EOLhyphen"/>liament.</hi>
+            </p>
+            <p>Thus hoping you will preſent my ſufferings accor<g ref="char:EOLhyphen"/>dingly, and praying that God of his infinite mercy will be graciouſly pleaſed to proſper and protect the Pro<g ref="char:EOLhyphen"/>ceedings of the high Court of Parliament, to the pre<g ref="char:EOLhyphen"/>ſervation of Peace, eſtabliſhing of Religion, defending of the Liberties and Priviledges of <hi>Parliament,</hi> and of the Subject, and inthronizing his Majeſtie with ho<g ref="char:EOLhyphen"/>nour and dignity, and his Poſterity ſucceſſively, to the joy of all true hearted Subjects.</p>
+            <closer>
+               <dateline>From <hi>Ludlow</hi> Caſtle, <date>October 1. 1642.</date>
+               </dateline>
+               <signed>Your obſervant friend, and a moſt dolefull Priſoner, <hi>Capt. WINGATE.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="speech">
+            <pb facs="tcp:116899:5"/>
+            <head>HIS MAIESTIES SPEECH at SHREVVSBVRY on MICHAELMAS Eve laſt, to the Gentry and Commons of the Countie of SALLOP, there aſſembled.</head>
+            <opener>
+               <salute>GENTLEMEN;</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is ſome benefit to me from the Inſolencies, and misfortunes which have driven me abont, that they have brought me to ſo good a part of my Kingdome, and to ſo faithfull a part of my people; I hope neither you nor I ſhall repent my comming hither; I will doe my part that you may not: And of you, I was confident before I came: the reſidence of an Army is not uſually pleaſant to any place, and mine may carry more feare with it, ſince it may be thought (being Robbed and ſpoiled of all my owne, and ſuch terror uſed to fright and keep all men from ſupplying me) I muſt only live upon the ayd and reliefe of my people; but bee not affraid, I would to God my poore Sub<g ref="char:EOLhyphen"/>iects ſufferred no more by the Inſolence and violence of that Army raiſed againſt me (though they have made themſelves wanton even with plentis, then you ſhall doe by mine, and yet I feare I cannot prevent all diſorders; I will doe my beſt; and this Ile promiſe you, no man ſhall bee a looſer by <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> if I can helpe it; I have ſent hither for a Mint, and will melt downe all my owne Plate, and expoſe my Land to ſale or morgage, that if it bee poſſible I may bring the leaſt preſſure upon you. In the meane time I have ſum<g ref="char:EOLhyphen"/>moned you hither to invite you to doe that for me and your ſelves, for the maintenance of your Religion, the law of the Land (by which you inioy all that you have) which other men doe againſt Vs: Doe not ſuffer ſo good a cauſe to be loſt for want of ſupplying mee with that, which will bee taken from you by thoſe who purſue me with this violence, and whilſt theſe ill men ſacrifice their mony Plate and utmoſt induſtry to deſtroy the Common wealth, be you no leſſe liberall to preſerve it. And aſſure your ſelves if it pleaſe God to bleſſe me with ſucceſſe I ſhall remember the particular aſſi<g ref="char:EOLhyphen"/>ſtance every man heere gives me to his advantage: However, it will here<g ref="char:EOLhyphen"/>after (how furiouſly the minds of men are now poſſeſſed) be honour and comfort to you, that with ſome charge and trouble to your ſelves, you did your part to ſupport your King and preſerve the Kingdome.</p>
+            <p>
+               <hi>I deſire M. Sheriffe, and the reſt of the Gentlemen, to diſtribute themſelves in that Method, that they may beſt receive the expreſſions which you ſhall make of your beſt affections, the which I will have particularly preſented to me.</hi>
+            </p>
+            <pb facs="tcp:116899:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
